@@ -9,6 +9,7 @@ import org.hibernate.Transaction;
 
 public class MainLogic {
 
+/* Adding a comment line for Github. */
 
 	public static void main(String[] args) {
 		
